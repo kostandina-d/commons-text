@@ -544,11 +544,10 @@
       <properties>
         <skipTests>true</skipTests>
         <benchmark>org.apache</benchmark>
-      </properties>
-     <properties>
-  <sonar.organization>kostandina-d</sonar.organization>
+       <sonar.organization>kostandina-d</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  </properties>
+      </properties>
+    
       <build>
         <plugins>
           <plugin>
